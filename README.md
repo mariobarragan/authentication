@@ -1,7 +1,6 @@
 stormpath authentication
 
-
-1.go to stormpath.com and make an account.
+1. go to stormpath.com and make an account.
 2. log in and create an api key. then download it and put it somewhere safe.
 3. git clone this repository. (also unzip any file)
 4. go to the directory and type in $npm install

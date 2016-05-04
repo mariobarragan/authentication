@@ -1,0 +1,34 @@
+{
+  "name": "stormpath-express-profile-example",
+  "version": "1.0.0",
+  "description": "A simple Express.js web application to demonstrate core Stormpath functionality.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stormpath/stormpath-express-profile-example.git"
+  },
+  "keywords": [
+    "stormpath",
+    "express",
+    "example",
+    "sample",
+    "customdata",
+    "express-stormpath",
+    "web app"
+  ],
+  "author": "Stormpath, Inc.",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/stormpath/stormpath-express-profile-example/issues"
+  },
+  "homepage": "https://github.com/stormpath/stormpath-express-profile-example",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "express-stormpath": "^3.0.0",
+    "jade": "^1.11.0"
+  }
+}

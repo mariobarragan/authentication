@@ -1,8 +1,9 @@
 stormpath authentication
 
-1. go to stormpath.com and make an account.
+
+1.go to stormpath.com and make an account.
 2. log in and create an api key. then download it and put it somewhere safe.
-3. git clone this repository
+3. git clone this repository. (also unzip any file)
 4. go to the directory and type in $npm install
 5. type this and replace the xxx with the api key id you got   (no spaces between the = and x)
   $export STORMPATH_CLIENT_APIKEY_ID=xxx   
